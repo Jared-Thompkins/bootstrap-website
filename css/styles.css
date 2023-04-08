@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+}
+
+
+.gradient {
+    background: rgb(182, 182, 182);
+    background: linear-gradient(90deg, rgb(98, 87, 203) 0%, rgb(92, 43, 197) 31%, rgb(79, 67, 173) 100%);
+}
+
+.page-header {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color: #fff;
+}
+
+.companies .col-md-2 {
+    margin: 5px;;
+}
